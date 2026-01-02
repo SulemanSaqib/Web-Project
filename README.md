@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Event Management System
 
 A full-stack Event Management System built with Node.js, Express, MongoDB, and React.
@@ -98,3 +99,6 @@ Relationships:
   "seatsBooked": 2
 }
 ```
+=======
+# Web-Project
+>>>>>>> 1f2c58af6eb8be19f4dc51f91f11af3372940997
